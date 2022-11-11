@@ -1,4 +1,4 @@
-// creating a variable "fullName" that point to restaurent
+// creating a variable "fullName" that point to restaurent and printout the address
 const restaurant = {
     name: 'Yellow Chillis',
     address: `${Math.floor(Math.random() * 100) + 1} Joel Ogunnike`,
